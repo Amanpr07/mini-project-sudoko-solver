@@ -1,1 +1,1 @@
-# mini-project-sudoko-solver
+# mini-project-sudoku-solver
